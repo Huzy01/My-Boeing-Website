@@ -1,0 +1,42 @@
+#boeing {
+	 background-image: url("https://i.dailymail.co.uk/i/pix/2016/11/08/19/3A2F26B300000578-3917756-image-a-9_1478634744913.jpg");
+	 background-attachment: fixed;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}
+body {
+         color: black;
+         font-family: Calibri;
+      }
+img {
+	 border: 4px dotted white;
+} 
+table, th, td hr{
+  border: 1px solid white;
+}
+p, a {
+  color: white;
+  font-size: 21px;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+}
+h3{
+    color: white;
+    font-size: 26px;
+}
+h2{
+    color: white;
+    font-size: 29px;
+}
+#list {
+	text-align: center;
+	 color: white;
+	 font-size: 17px;
+}
+#copyright {
+	color: white;
+	 font-size: 17px;
+}
